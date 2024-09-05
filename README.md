@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello World, I'm Sumanee (May) 👋
+
+I'm currently working as a housewife and code labour.
+
+Check my profile on [my homepage](https://maywz.be/)
 
 <!--
 **mayWz/mayWz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X6ZCP7)
